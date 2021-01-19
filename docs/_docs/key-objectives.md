@@ -1,0 +1,13 @@
+---
+layout: doc
+title: Key objectives
+categories: [Introduction]
+tags: 
+---
+### Key objectives
+-   **Create a vibrant community** that blends security researchers, policymakers, lawyers, and technology vendors to foster collaboration, and creates high-quality tools and data that support a virtuous cycle.
+-   Help orgnizations **promote adoption and excellence** to their customers, industry peers, and the security community.
+-   **Drive the state of the art** in thinking around legal risks faced for security researchers and the steps organizations can take to reduce them.
+-   Make tools and techniques **freely available** to technology vendors to ease the socialization and adoption of VDP.
+-   Maintain a disclosure policy maturity model and **create a “race to the top”** for VDP adoption and the implementation of best practice.
+-   **Be the system of record** for the Disclose.io Status of a policy, provide easy mechanisms for anyone to lookup a target/organization, or to update their status.

@@ -1,0 +1,16 @@
+# Boxes include navigation
+
+- title: Getting Started
+  desc: Learn about The disclose.io Project, how it works, and how to get started for vendors, finders, and contributors
+  icon: cog
+  doc: installation
+
+- title: Tools and Projects
+  desc: Learn about our Core projects as well as up-and-coming projects and opportunities to collaborate
+  icon: code
+  doc: hero
+
+- title: Community
+  desc: Connect, learn from, and collaborate with like-minded folks working on making the Internet a safer place 
+  icon: heart
+  doc: customize

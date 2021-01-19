@@ -1,0 +1,42 @@
+- title: Introduction
+  docs:
+  - what-is-disclose
+  - vision-and-mission
+  - key-objectives
+  - design-strategy
+  - user-stories
+
+- title: Getting started
+  docs:
+  - recipients
+  - finders
+  - contributors
+  - maintainers
+
+- title: Core Projects
+  docs:
+  - dioterms
+  - diostatus
+  - diodb
+  - dioseal
+  - diodata
+
+- title: Tools
+  docs:
+  - tweeter
+  - diosts
+  - chrome-extension
+  - diogen
+  - platforms
+  - cert-contacts
+  - securitytxt
+  - start-a-project
+
+- title: Community
+  docs:
+  - discourse
+  - press-articles
+  - letters 
+  - legal-threats
+  - talks-and-videos
+  - advocacy-and-activism

@@ -1,0 +1,71 @@
+# Navbar left menu navigation links
+
+left:
+  - title: Home
+    url: /
+
+  - title: Docs
+    url: /docs/what-is-disclose/
+
+  - title: Blog
+    url: /blog/
+
+  - title: Disclosure History
+    url: /history/
+
+
+# Navbar right menu navigation links
+
+right:
+
+  - title: Our Github
+    url: https://github.com/disclose
+    button: primary-outline
+
+  - title: Join The Community
+    url: https://community.disclose.io
+    button: primary-outline
+
+  - title: Contact
+    url: /contact/
+    button: primary
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: default
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: primary
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: secondary
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: danger
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: success
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: warning
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: primary-outline
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: danger-outline
+
+  # - title: Changelog
+  #   url: /contact/
+  #   button: success-outline
+
+  # - title: Contact
+  #   url: /contact/
+  #   button: warning-outline

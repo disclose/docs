@@ -1,0 +1,19 @@
+---
+layout: doc
+title: Recipients and program owners 
+categories: [Getting started]
+tags: 
+---
+> Note: While this project engages the legal opinion of many, it does not constitute legal advice. Please consult your legal counsel for the specific suitability of the disclose.io terms in your organization.
+
+**![](https://lh5.googleusercontent.com/yyC3IFGgrZYCliorptqXdDsSAsZJZ374k2_LfBXWvn1R0AlUdxw-sVAXVzM5rXWT09p-nyhnqmiOXbjCZ5a2YCYRivbdPAHmEY-VAtxwnBdpHIJTHGPlsf87T6yl2e4BlW328g89)**
+
+1.  Whether you're starting from scratch or updating an existing policy, choose the [legal terms](https://github.com/disclose/dioterms) that best fit your vulnerability disclosure program (VDP) or bug bounty program (BBP).
+    
+2.  Publish your new policy, or add the safe harbor terms to your existing VDP or BBP policy.
+    
+3.  Submit a pull request to add your program to the [open-source disclose.io program database](https://github.com/disclose/diodb). The diodb maintainers will confirm details, validate your disclose.io status, and merge your request.
+    
+4.  Select the appropriate [disclose.io Seal](https://github.com/disclose/dioseal) based on your Disclose.io Status.
+    
+5.  Add the seal to your security page, vulnerability policy or reporting page, checkout page, and whatever else you like and let the world know you're joining the mission!
