@@ -2,41 +2,36 @@
   docs:
   - what-is-disclose
   - vision-and-mission
-  - key-objectives
   - design-strategy
-  - user-stories
+  - key-objectives
+  - diostatus
+  - legal-disclaimer
 
 - title: Getting started
   docs:
+  - user-stories
   - recipients
   - finders
   - contributors
   - maintainers
 
-- title: Core Projects
+- title: Projects
   docs:
-  - dioterms
-  - diostatus
-  - diodb
-  - dioseal
-  - diodata
+  - join-a-project
+  - project-directory
+  - start-a-project
 
 - title: Tools
   docs:
-  - tweeter
-  - diosts
-  - chrome-extension
   - diogen
   - platforms
-  - cert-contacts
+  - legal-threats
+  - certs
   - securitytxt
-  - start-a-project
 
 - title: Community
   docs:
   - discourse
   - press-articles
-  - letters 
-  - legal-threats
   - talks-and-videos
   - advocacy-and-activism
