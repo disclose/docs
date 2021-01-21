@@ -8,7 +8,7 @@ tags:
 Disclose.io Status provides recognition to early adopters of vulnerability disclosure programs, and a clear path towards best practices for the more advanced. 
 
 ## How is it managed?
-Diodb is the system of record for diostatus, and diodb's open-source and transparent nature provides full insight into changes, additions, and even downgrades of a diostatus.
+[diodb](https://github.com/disclose/diodb) is the system of record for diostatus, and diodb's open-source and transparent nature provides full insight into changes, additions, and even downgrades of a diostatus.
 
 Each status level has a corresponding dioseal, which organizations can display on their security page, policy page, or website.
 

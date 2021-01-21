@@ -24,21 +24,21 @@ tags:
 ## Other Projects
 
 Repo: [tweeter](https://github.com/disclose/tweeter)
-Description: Statistics bot for the @disclose_io Twitter account written in Go
-Status: Active
-Maintainer: @steams
+- Description: Statistics bot for the @disclose_io Twitter account written in Go
+- Status: Active
+- Maintainer: @steams
 
 Repo: [diosts](https://github.com/disclose/diosts)
-Description: A Go scraper that validates security.txt files and outputs them in the disclose.io JSON format.
-Status: Active
-Maintainer: @gi-el
+- Description: A Go scraper that validates security.txt files and outputs them in the disclose.io JSON format.
+- Status: Active
+- Maintainer: @gi-el
 
 Repo: [chrome-extension](https://github.com/disclose/chrome-extension)
-Description: disclose.io VDP and safe harbor chrome extension
-Status: Private pre-release
-Maintainer: @codingo
+- Description: disclose.io VDP and safe harbor chrome extension
+- Status: Private pre-release
+- Maintainer: @codingo
 
 Repo: [diogen](https://github.com/disclose/diogen)
-Description: A web-based VDP policy generation tool based on dioterms.
-Status: Not Yet Started
-Maintainer: If interested please submit a PR or issue to the repo.
+- Description: A web-based VDP policy generation tool based on dioterms.
+- Status: Not Yet Started
+- Maintainer: If interested please submit a PR or issue to the repo.
