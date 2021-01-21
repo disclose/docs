@@ -1,12 +1,12 @@
 ---
 layout: doc
-title: Our design strategy
+title: Design strategy
 categories: [Introduction]
 tags: 
 ---
-Vulnerability reporting is tricky by nature. Every security issue is a snowflake, and the laws, languages, and people involved are unique every single time. 
+Vulnerability reporting is tricky by nature - Every security issue is a snowflake, and the laws, languages, and people involved are unique every single time. 
 
-To compensate for this, [disclose.io](https://disclose.io) focusses on these design principles:
+To compensate for this and help to **make secure easy, and insecure (or bad practice) obvious**, [disclose.io](https://disclose.io) focusses on these design principles:
 
 |Legal completeness|Simplified standards|Accessible to all|Universally recognized|
 |:--:||:--:||:--:||:--:|

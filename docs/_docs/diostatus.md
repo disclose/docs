@@ -4,13 +4,24 @@ title: diostatus - The disclose.io best practice maturity model
 categories: [Introduction]
 tags: 
 ---
-## What is disclose.io Status?
-Disclose.io Status provides recognition to early adopters of vulnerability disclosure programs, and a clear path towards best practices for the more advanced. 
+Disclose.io Status provides recognition to early adopters of vulnerability disclosure programs, and a clear path towards best practices for those wanting to become more advanced.
+
+## Let's send best practice viral!
+
+In combination with the [Disclose.io Seal](https://github.com/disclose/dioseal), diostatus clearly communicates:
+
+1. The **availability** of of a vulnerability disclosure program (VDP) or bug bounty program (BBP);
+2. The degree of **legal safety** a finder can expect;
+3. The types of **security research activities that are blessed** by the organization; and
+4. The **maturity** of an organization's vulnerability intake program and, by extension, it's overall cbersecurity program.
+
+Leveraging network-effect to promote best practice is a core design goal of The disclose.io Project. Diostatus and dioseal together **create a "race-to-the-top"** by making adoption of best practice rewarding, desirable, and viral. 
 
 ## How is it managed?
-[diodb](https://github.com/disclose/diodb) is the system of record for diostatus, and diodb's open-source and transparent nature provides full insight into changes, additions, and even downgrades of a diostatus.
 
-Each status level has a corresponding dioseal, which organizations can display on their security page, policy page, or website.
+[diodb](https://github.com/disclose/diodb) is the system of record for diostatus. diodb's open-source and transparent nature provides full insight into changes, additions, and even downgrades of a diostatus.
+
+Each status level has a corresponding dioseal, which organizations can display on their security page, policy page, shopping cart checkout, or elsewhere on a website.
 
 ## What are the different tiers?
 
