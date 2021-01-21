@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              docs.disclose.io
-description:        Documentation for The disclose.io Project
+title:              The disclose.io Initiative
+description:        Open-source tools for a healthy Internet Immune System.
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -41,6 +41,10 @@ authors:
       name:         amitelazari
       title:        Founding Member    
       avatar:       avatar-amit.jpg
+    jack:
+      name:         jack
+      title:        Policy and Process Maintainer     
+      avatar:       avatar-jack.jpg
     chloe:
       name:         chloemessdaghi
       title:        Founding Member    
