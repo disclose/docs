@@ -43,7 +43,7 @@ authors:
       avatar:       avatar-amit.jpg
     jack:
       name:         jack
-      title:        Policy and Process Maintainer     
+      title:        Hacker/Operator     
       avatar:       avatar-jack.jpg
     chloe:
       name:         chloemessdaghi
@@ -51,11 +51,11 @@ authors:
       avatar:       avatar-chloe.jpg
     harley:
       name:         harleygeiger
-      title:        Legal Maintainer     
+      title:        Legal     
       avatar:       avatar-harley.jpg
     fred:
       name:         esquiring
-      title:        Legal Maintainer     
+      title:        Legal     
       avatar:       avatar-fj.jpg
 
 # Social icons displayed in footer
@@ -63,15 +63,9 @@ social:
     email:          hello@disclose.io
     website:        https://disclose.io
     facebook:       https://www.facebook.com/disclose-io
-    flickr:
-    dribbble:
     github:         https://github.com/disclose
-    googleplus:
-    instagram:      
     linkedin:       https://www.facebook.com/discloseio
-    pinterest:
     twitter:        https://twitter.com/disclose_io
-    vimeo:          
     youtube:        https://www.youtube.com/c/discloseio
 
 # Share button
@@ -90,7 +84,7 @@ disqus:
     shortname:      disclose_io
 
 # Google analytics code, get your code here https://www.google.com/analytics/
-google_analytics:   UA-2709176-10
+google_analytics:   UA-143424917-6
 
 # Number of posts displayed on blog page
 paginate:           10
