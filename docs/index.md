@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: welcome to disclose.io
-    subtitle: A cross-industry, vendor-agnostic standardization project for safe harbor best practices to enable good-faith security research.
+    subtitle: Open-source tools for a healthy Internet Immune System.
     image: diostatus.jpg
     search: true
 ---
