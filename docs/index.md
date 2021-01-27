@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: welcome to disclose.io
+    title: welcome to disclose.io (draft website)
     subtitle: Open-source tools for a healthy Internet Immune System.
     image: diostatus.jpg
     search: true
