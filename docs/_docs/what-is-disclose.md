@@ -8,6 +8,8 @@ Disclose.io is a **cross-industry, vendor-agnostic standardization project** for
 
 We provide free, open-source tools and data to help **establish and improve vulnerability disclosure programs** and an easily recognizable seal for those taking part in "Neighbourhood Watch for the Internet."
 
+![tug-of-war.svg](/uploads/tug-of-war.svg)
+
 ## Powered by experts 
 
 With the help of expert maintainers and by harnessing the power of open-source, disclose.io provides:
