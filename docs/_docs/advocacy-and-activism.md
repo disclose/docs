@@ -11,3 +11,4 @@ advocacy /ˈadvəkəsi/ (noun)
 activism /ˈaktɪvɪz(ə)m/ (noun)
 
 > the policy or action of using vigorous campaigning to bring about political or social change.
+

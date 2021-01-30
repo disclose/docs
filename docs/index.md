@@ -2,8 +2,8 @@
 layout: page
 width: expand
 hero:
-    title: welcome to disclose.io (draft website)
-    subtitle: Open-source tools for a healthy Internet Immune System.
+    title: welcome to disclose.io
+    subtitle: Open-source tools to help hackers and organizations make the Internet safer, together.
     image: diostatus.jpg
     search: true
 ---
