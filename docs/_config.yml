@@ -41,14 +41,14 @@ authors:
       name:         amitelazari
       title:        Founding Member    
       avatar:       avatar-amit.jpg
-    jack:
-      name:         jack
-      title:        Hacker/Operator     
-      avatar:       avatar-jack.jpg
     chloe:
       name:         chloemessdaghi
       title:        Founding Member    
       avatar:       avatar-chloe.jpg
+    jack:
+      name:         jack
+      title:        Hacker/Operator     
+      avatar:       avatar-jack.jpg
     harley:
       name:         harleygeiger
       title:        Legal     
