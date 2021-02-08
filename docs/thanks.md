@@ -5,12 +5,6 @@ permalink: /thanks/
 width: small
 ---
 
-### This is a redirect page for Formspree contact form
+### Thanks! We've received your message and will respond as soon as possible.
 
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Ut malesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Mesuada varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
-
-Varius tempor. Nulla non sollicitudin tortor. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla.
+In the meantime, why not sign up and say hello over at the disclose.io Community Discourse? Many of the contributors to disclose.io  as well as a many from the finder, defender, and facilitator communities are there - It's another great place to ask questions!
