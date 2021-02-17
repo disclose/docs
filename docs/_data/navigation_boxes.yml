@@ -14,3 +14,8 @@
   desc: Connect, learn from, and collaborate with like-minded folks working on making the Internet a safer place 
   icon: heart
   doc: discourse
+
+- title: Programs
+  desc: Search all the currently listed Vulnerability Disclosure Programs and Bug Bounty Programs in the disclose.io database, find details on where to submit security findings, and understand their safe harbor status.
+  icon: menu
+  url: programs/

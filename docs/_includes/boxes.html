@@ -8,7 +8,7 @@
         {% assign container = '' %}
     {% endif %}
 {% else %}
-    {% assign columns = 3 %}
+    {% assign columns = 4 %}
     {% assign container = '' %}
 {% endif %}
 
@@ -23,9 +23,17 @@
 
         <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
         {% for item in site.data.navigation_boxes %}
+            
             {% if item.title %}
-            {% assign doc_url = item.doc | prepend:"/docs/" | append:"/" %}
-            {% assign doc = site.docs | where:"url", doc_url | first %}
+                {% if item.doc %}
+                    {% assign doc_url = item.doc | prepend:"/docs/" | append:"/" %}
+                    {% assign doc = site.docs | where:"url", doc_url | first %}
+                {% endif %}
+                {% if item.url %}
+                    {% assign doc = item %}
+                    
+                {% endif %}
+                
             <div>
                 <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="{{ doc.url | relative_url }}"></a>
