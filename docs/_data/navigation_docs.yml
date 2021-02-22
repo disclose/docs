@@ -5,21 +5,18 @@
   - design-strategy
   - key-objectives
   - diostatus
-  - legal-disclaimer
 
 - title: Getting started
   docs:
   - user-stories
-  - recipients
   - finders
+  - recipients
   - contributors
-  - maintainers
 
 - title: Projects
   docs:
-  - join-a-project
   - project-directory
-  - start-a-project
+  - join-a-project
 
 - title: Tools
   docs:
@@ -35,3 +32,4 @@
   - press-articles
   - talks-and-videos
   - advocacy-and-activism
+  - legal-disclaimer

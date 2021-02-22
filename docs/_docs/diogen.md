@@ -4,7 +4,7 @@ title: VDP policy generator
 categories: [Tools]
 tags: 
 ---
-# Placeholder: Web-based VDP policy generator
+## Placeholder: Web-based VDP policy generator
 
 - Repo: [diogen](https://github.com/disclose/diogen)
 - Description: A web-based VDP policy generation tool based on dioterms.

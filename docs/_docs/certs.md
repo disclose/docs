@@ -4,7 +4,7 @@ title: Worldwide list of CERTs
 categories: [Tools]
 tags: 
 ---
-# Placeholder: Lookup tool for CERTs.
+## Placeholder: Lookup tool for CERTs.
 - Repo: [list-of-certs.csv](https://github.com/disclose/diodata/blob/master/list-of-certs.csv)
 - Description: A web-based lookup tool against list-of-certs.csv.
 

@@ -134,3 +134,6 @@ defaults:
       type:         docs
     values:
       layout:       doc
+
+include: 
+  - ".well-known"

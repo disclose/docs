@@ -1,9 +1,21 @@
 ---
 layout: doc
-title: Recipient organizations 
+title: For organizations and legal teams 
 categories: [Getting started]
 tags: 
 ---
+## As an organization...  
+...who is considering starting a VDP, I want confidence in the fact that this is **best practice, and not an overly aggressive risk**.  
+...who is running a VDP, I want to be able to **clearly show my security maturity to my customers**, competitors, and any others interested to know.  
+...who is pursuing security maturity, I need a reference to point to in order to **explain and validate what progressive security maturity means** to an organization like mine.  
+
+## As a legal team...  
+...who has never considered the idea of inviting hacker input before, we need to **understand where successful precedent exists** around how to structure terms and conditions.  
+...who is seeking to improve the simplicity and utility of VDP language, we want to be able to **refer to the consensus of experts** to support our point of view.  
+...who is time poor, we want access to **free policy boilerplates** that have the power of market and legal consensus behind them.  
+
+# How disclose.io can help
+
 > Note: While this project engages the legal opinion of many, it does not constitute legal advice. Please consult your legal counsel for the specific suitability of the disclose.io terms in your organization.
 
 **![](https://lh5.googleusercontent.com/yyC3IFGgrZYCliorptqXdDsSAsZJZ374k2_LfBXWvn1R0AlUdxw-sVAXVzM5rXWT09p-nyhnqmiOXbjCZ5a2YCYRivbdPAHmEY-VAtxwnBdpHIJTHGPlsf87T6yl2e4BlW328g89)**

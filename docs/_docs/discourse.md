@@ -4,4 +4,9 @@ title: The disclose.io Discourse
 categories: [Community]
 tags: 
 ---
-[https://community.disclose.io](https://community.disclose.io)
+
+# Disclose.io Community
+
+Our Discourse at [https://community.disclose.io](https://community.disclose.io) is for sharing research, coordinating policy activism and responses, collaborating with other hackers, and helping finders connect with security teams. 
+
+[Sign up]() and introduce yourself!

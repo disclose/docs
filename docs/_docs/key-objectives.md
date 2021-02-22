@@ -4,7 +4,7 @@ title: Key objectives
 categories: [Introduction]
 tags: 
 ---
-### Key objectives
+## Key objectives
 
 - **Create a vibrant community** that blends security researchers, policymakers, lawyers, and technology vendors to foster collaboration, and creates high-quality tools and data that support a virtuous cycle.
 - Help orgnizations **promote adoption and excellence** to their customers, industry peers, and the security community.
