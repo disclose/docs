@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: diostatus - The disclose.io best practice maturity model
-categories: [Introduction]
+categories: [Projects]
 tags: 
 ---
 Disclose.io Status provides recognition to early adopters of vulnerability disclosure programs, and a clear path towards best practices for those wanting to become more advanced.

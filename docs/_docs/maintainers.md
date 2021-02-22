@@ -4,4 +4,5 @@ title: Maintainers
 categories: [Getting started]
 tags: 
 ---
-TO DO: How to become a maintainer.
+Interested in becoming a maintainer or contributor to the project? Awesome!
+

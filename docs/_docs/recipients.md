@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Recipients and program owners 
+title: Recipient organizations 
 categories: [Getting started]
 tags: 
 ---
