@@ -1,15 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" class="uk-height-1-1">
 
+    <head>
+      
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    
+<!-- UIkit CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/css/uikit.min.css" />
+
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.6.16/dist/js/uikit-icons.min.js"></script>
+
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.23/js/dataTables.uikit.min.js"></script>
 <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.6.5/js/dataTables.buttons.min.js"></script> 
 <script type="text/javascript" src="https://cdn.datatables.net/buttons/1.6.5/js/buttons.html5.min.js"></script> 
 
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/dataTables.uikit.min.css" />
-
-
-<div class="uk-container{{container}}">
+</head>
+<body>
+<div class="uk-container">
+<div class="uk-container">
         <h2 class="uk-h1 uk-text-center">Current VDP programs</h2>
     
 
@@ -75,7 +86,7 @@
 
 
 
-<div class="uk-section uk-padding-remove-top">
+<div class="uk-section">
 
     
     
@@ -103,7 +114,7 @@
         </thead>
     </table>
 </div>
-
+</div>
 <!-- Include diode JSON data -->
 <script>
     var thisDataTable;
@@ -144,7 +155,7 @@
             //console.log(data)
             thisDataTable = $('#example').DataTable( {
                
-                dom: 'rt<"uk-pagination"ip>',
+                dom: 'rtip',
                 data: data,
                 buttons: [
                 {
@@ -286,3 +297,5 @@
         
     });
     </script>
+
+</body>
