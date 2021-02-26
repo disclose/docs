@@ -8,7 +8,9 @@ hero:
     search: true
 ---
 
-{% include boxes.html columns="3" title="Browse topics" subtitle="Let's get started..." %}
+{% include boxes.html columns="4" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
+
+{% include videos.html columns="2" title="What's this about?" subtitle="A couple of talks to get you started..." %}
 
 {% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Got a quick question? Let's get you a quick answer" %}
 
