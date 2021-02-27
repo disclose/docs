@@ -16,7 +16,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                ""
+url:                "https://disclose.io"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: logo.svg               
@@ -47,16 +47,60 @@ authors:
       avatar:       avatar-chloe.jpg
     jack:
       name:         jack
-      title:        Hacker/Operator     
+      title:        Contributor/Maintainer     
       avatar:       avatar-jack.jpg
     harley:
       name:         harleygeiger
-      title:        Legal     
+      title:        Contributor/Maintainer      
       avatar:       avatar-harley.jpg
     fred:
       name:         esquiring
-      title:        Legal     
+      title:        Contributor/Maintainer      
       avatar:       avatar-fj.jpg
+    beau:
+      name:         beauwoods
+      title:        Contributor/Maintainer      
+      avatar:       avatar-beauwoods.jpg
+    dan:
+      name:         dantrauner
+      title:        Contributor      
+      avatar:       avatar-dantrauner.jpg
+    jen:
+      name:         infosecjen
+      title:        Contributor      
+      avatar:       avatar-jen.jpg
+    ed:
+      name:         edoverflow
+      title:        Contributor      
+      avatar:       avatar-edoverflow.jpg
+    gamliel:
+      name:         gamliel
+      title:        Contributor      
+      avatar:       avatar-gamliel.jpg
+    haddix:
+      name:         jhaddix
+      title:        Contributor      
+      avatar:       avatar-jhaddix.jpg
+    lisa:
+      name:         its-a-lisa
+      title:        Contributor      
+      avatar:       avatar-lisa.jpg
+    max:
+      name:         max
+      title:        Contributor      
+      avatar:       avatar-max.jpg
+    degeri:
+      name:         degeri
+      title:        Contributor      
+      avatar:       avatar-degeri.jpg
+    jonathan:
+      name:         jonathan
+      title:        Contributor      
+      avatar:       avatar-jonathan.jpg
+    borski:
+      name:         borski
+      title:        Contributor
+      avatar:       avatar-borksi.jpg
 
 # Social icons displayed in footer
 social:

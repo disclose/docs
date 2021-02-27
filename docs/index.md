@@ -16,7 +16,7 @@ hero:
 
 {% include videos.html columns="2" title="Why does disclose.io exist?" subtitle="A couple of talks to get you started..." %}
 
-{% include team.html title="Just Internet things" subtitle="Some of the folks working on disclose.io who eat, sleep, and breathe making the Internet safer" %}
+{% include team.html title="Internet superheroes" subtitle="Just some of the folks working on disclose.io who eat, sleep, and breathe making the Internet safer" %}
 
 {% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us" %}
 
