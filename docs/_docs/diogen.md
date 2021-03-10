@@ -10,4 +10,4 @@ tags:
 - Description: A web-based VDP policy generation tool based on dioterms.
 - Status: Not Yet Started
 
-If you'd like to work on this, submit a PR to the disclose/docs repo or contact us!
+If you'd like to work on this, submit a PR to the [disclose/docs](https://github.com/disclose/docs) repo or [contact us](https://disclose.io/contact/)!

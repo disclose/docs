@@ -10,4 +10,4 @@ tags:
 
 # Mission
 
-> We’re on a mission to drive the adoption of vulnerability disclosure through simplicity, standardization, and positive reinforcement of best practices.
+> Were on a mission to drive the adoption of vulnerability disclosure through simplicity, standardization, and positive reinforcement of best practices.

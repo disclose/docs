@@ -13,7 +13,7 @@ In combination with the [Disclose.io Seal](https://github.com/disclose/dioseal),
 1. The **availability** of of a vulnerability disclosure program (VDP) or bug bounty program (BBP);
 2. The degree of **legal safety** a finder can expect;
 3. The types of **security research activities that are blessed** by the organization; and
-4. The **maturity** of an organization's vulnerability intake program and, by extension, it's overall cbersecurity program.
+4. The **maturity** of an organization's vulnerability intake program and, by extension, its overall cybersecurity program.
 
 Leveraging network-effect to promote best practice is a core design goal of The disclose.io Project. Diostatus and dioseal together **create a "race-to-the-top"** by making adoption of best practice rewarding, desirable, and viral. 
 

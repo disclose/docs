@@ -15,6 +15,6 @@ tags:
 
 # How disclose.io can help
 
-- Search for program contact details in the diodb open-source vulnearbility disclosure directory... There's a web-based search coming soon!
-- Check the organizations Disclose.io Status for a quick view of how receptive they are to vulnearbility reports and security research.
+- [Search for program contact details](https://disclose.io/programs) in the diodb open-source vulnerability disclosure directory.
+- Check the organizations Disclose.io Status for a quick view of how receptive they are to vulnerability reports and security research.
 -  Take advantage of disclose.io tools like the diosts security.txt scanner in your workflow to build automation around security research and reporting.

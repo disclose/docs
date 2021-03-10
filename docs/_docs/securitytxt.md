@@ -8,4 +8,4 @@ tags:
 - Repo: [securitytxt.org](https://github.com/securitytxt/securitytxt.org)
 - Description: A web-based generator for security.txt files based on @edoverflow's website.
 
-If you'd like to work on this, submit a PR to the disclose/docs repo or contact us!
+If you'd like to work on this, submit a PR to the [disclose/docs](https://github.com/disclose/docs) repo or [contact us](https://disclose.io/contact/)!

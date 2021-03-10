@@ -9,4 +9,4 @@ tags:
 - Description: A living document of legal threats against security researchers based on the work of @attrittionorg (with permission).
 - To do: Clean up of markup, format into tables, move to this page.
 
-If you'd like to work on this, submit a PR to the disclose/docs repo or contact us!
+If you'd like to work on this, submit a PR to the [disclose/docs](https://github.com/disclose/docs) repo or [contact us](https://disclose.io/contact/)!

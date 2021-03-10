@@ -8,4 +8,4 @@ tags:
 
 - Repo: [platforms.csv](https://github.com/disclose/tools-and-data/blob/master/platforms.csv)
 
-If you'd like to work on this, submit a PR to the disclose/docs repo or contact us!
+If you'd like to work on this, submit a PR to the [disclose/docs](https://github.com/disclose/docs) repo or [contact us](https://disclose.io/contact/)!
