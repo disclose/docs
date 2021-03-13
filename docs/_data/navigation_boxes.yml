@@ -5,17 +5,17 @@
   icon: cog
   doc: what-is-disclose
 
-- title: Tools and Projects
-  desc: Learn about our Core projects as well as up-and-coming projects and opportunities to collaborate
+- title: Projects
+  desc: Dig in to our Core projects as discover (or even suggest) as up-and-coming projects and opportunities to collaborate
   icon: code
   doc: project-directory
 
 - title: Community
-  desc: Connect, learn from, and collaborate with like-minded folks working on making the Internet a safer place 
+  desc: Get help finding security contacts, and collaborate with like-minded folks working on making the Internet a safer place 
   icon: heart
   url: https://community.disclose.io
 
-- title: Programs
-  desc: Search vulnerability disclosure and bug bounty programs in the disclose.io database, get details on where to submit security findings, and understand their safe harbor status.
+- title: Search
+  desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
   icon: menu
   url: programs/
