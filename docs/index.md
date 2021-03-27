@@ -4,7 +4,7 @@ width: expand
 hero:
     title: welcome to disclose.io
     subtitle: Open-source tools to help hackers and organizations make the Internet safer, together.
-    image: tug-of-war.svg
+    image: tug-of-war.jpg
 ---
 
 {% include boxes.html columns="4" title="Let's get started..." subtitle="Here are the most popular places to get started" %}

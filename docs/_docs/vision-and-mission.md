@@ -6,8 +6,10 @@ tags:
 ---
 # Vision
 
-> Our vision is a healthy and ubiquitous Internet Immune System enabled by security research and productive collaboration between hackers and technology vendors and open source projects.
+> A healthy and ubiquitous Internet Immune System enabled by security research, reporting, and disclosure.
 
 # Mission
 
-> Were on a mission to drive the adoption of vulnerability disclosure through simplicity, standardization, and positive reinforcement of best practices.
+> Standardize and promote Neighborhood Watch for the Internet.
+
+![diotimeline.png](/uploads/diotimeline.png)

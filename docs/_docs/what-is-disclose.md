@@ -6,9 +6,9 @@ tags:
 ---
 Disclose.io is a **cross-industry, vendor-agnostic standardization project** for safe harbor best practices to enable good-faith security research.
 
-We provide free, open-source tools and data to help **establish and improve vulnerability disclosure programs** and an easily recognizable seal for those taking part in "Neighbourhood Watch for the Internet."
+We provide free, open-source tools and data to help **establish and improve vulnerability disclosure programs** and an easily recognizable seal for those taking part in "Neighbourhood Watch for the Internet."  
 
-![tug-of-war.svg](/uploads/tug-of-war.svg)
+![tug-of-war.svg](/uploads/tug-of-war.jpg)
 
 ## Powered by experts 
 
