@@ -4,14 +4,13 @@
   url: /
 
 - title: Docs
-  url: /docs/installation/
+  url: /docs/what-is-disclose/
 
 - title: Blog
-  url: /blog/
+  url: https://disclose.substack.com
 
-- title: Changelog
-  url: /changelog-timeline/
-
-- title: Contact
-  url: /contact/
-  button: success
+- title: History
+  url: /history/
+  
+- title: Program Search
+  url: /programs/
