@@ -5,6 +5,16 @@
   icon: cog
   doc: what-is-disclose
 
+- title: The List
+  desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
+  icon: menu
+  url: programs/
+
+- title: The Terms
+  desc: Open-source Vulnerability Disclosure Program (VDP) policy boilerplates with Safe Harbor
+  icon: pencil
+  doc: project-directory
+
 - title: Projects
   desc: Dig in to our Core projects and discover up-and-coming projects and opportunities to collaborate
   icon: code
@@ -15,7 +25,4 @@
   icon: heart
   url: https://community.disclose.io
 
-- title: Search
-  desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
-  icon: menu
-  url: programs/
+

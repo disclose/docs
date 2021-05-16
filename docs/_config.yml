@@ -35,7 +35,7 @@ author:
 authors:
     casey:
       name:         caseyjohnellis
-      title:        Founder     
+      title:        Founding Member      
       avatar:       avatar-cje.jpg
     amit:
       name:         amitelazari
@@ -94,9 +94,9 @@ authors:
       title:        Contributor      
       avatar:       avatar-max.jpg
     degeri:
-      name:         degeri
+      name:         hakluke
       title:        Contributor      
-      avatar:       avatar-degeri.jpg
+      avatar:       avatar-hakluke.jpg
     jonathan:
       name:         jonathan
       title:        Contributor      
@@ -153,7 +153,6 @@ gems:
   - jekyll-gist
   - jekyll-avatar
   - jekyll-redirect-from
-  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock

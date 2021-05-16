@@ -7,8 +7,8 @@ permalink: /contact/
 
 ##### Got questions, suggestions, or want to start a disclose.io project? 
 
-We'd love to hear from you, and will get back to you ASAP!  
+We'd love to hear from you!
 
-In the meantime, why not sign up and say hello over at the [disclose.io Community Discourse[(https://community.disclose.io)? Many of the contributors to disclose.io  as well as a many from the finder, defender, and facilitator communities are there - It's another great place to ask questions!
+In the meantime, why not say hello over at the [disclose.io Community Discourse](https://community.disclose.io)? Contributors to disclose.io as well as a many from the finder, builder, CERT, and facilitator communities.
 
 {% include formspree.html email="hello@disclose.io" redirect="/thanks/" name="true" subject="true" %}
