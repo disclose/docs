@@ -10,6 +10,6 @@ tags:
 
 # Mission
 
-> Standardize and promote Neighborhood Watch for the Internet.
+> To standardize and promote Neighborhood Watch for the Internet.
 
 ![diotimeline.png](/uploads/diotimeline.png)

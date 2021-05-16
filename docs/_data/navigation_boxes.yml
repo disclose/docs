@@ -13,7 +13,7 @@
 - title: The Terms
   desc: Open-source Vulnerability Disclosure Program (VDP) policy boilerplates with Safe Harbor
   icon: pencil
-  doc: project-directory
+  doc: https://github.com/disclose/dioterms
 
 - title: Projects
   desc: Dig in to our Core projects and discover up-and-coming projects and opportunities to collaborate
