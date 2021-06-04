@@ -73,14 +73,14 @@ authors:
       name:         infosecjen
       title:        Contributor      
       avatar:       avatar-jen.jpg
-    ed:
-      name:         edoverflow
-      title:        Contributor      
-      avatar:       avatar-edoverflow.jpg
-    gamliel:
-      name:         gamliel
-      title:        Contributor      
-      avatar:       avatar-gamliel.jpg
+    harley:
+      name:         harleygeiger
+      title:        Contributor/Maintainer      
+      avatar:       avatar-harley.jpg
+    sickcodes:
+      name:         sickcodes
+      title:        Contributor/Maintainer      
+      avatar:       avatar-sickcodes.png
     haddix:
       name:         jhaddix
       title:        Contributor      
