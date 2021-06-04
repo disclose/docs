@@ -65,6 +65,10 @@ authors:
       name:         andrewmohawk
       title:        Contributor/Maintainer
       avatar:       avatar-andrew.jpg
+    sickcodes:
+      name:         sickcodes
+      title:        Contributor/Maintainer
+      avatar:       avatar-sickcodes.png
     dan:
       name:         dantrauner
       title:        Contributor      
@@ -77,10 +81,6 @@ authors:
       name:         harleygeiger
       title:        Contributor/Maintainer      
       avatar:       avatar-harley.jpg
-    sickcodes:
-      name:         sickcodes
-      title:        Contributor/Maintainer      
-      avatar:       avatar-sickcodes.png
     haddix:
       name:         jhaddix
       title:        Contributor      
