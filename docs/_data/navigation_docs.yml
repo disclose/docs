@@ -18,6 +18,12 @@
   - project-directory
   - join-a-project
 
+- title: Resources
+  docs:
+  - policymaker
+  - researcher-threats
+  - bug-bounty-platforms
+
 - title: Community
   docs:
   - discourse

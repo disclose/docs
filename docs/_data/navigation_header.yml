@@ -8,7 +8,7 @@ left:
     url: /docs/what-is-disclose/
 
   - title: Blog
-    url: https://disclose.substack.com
+    url: https://blog.disclose.io
 
   - title: History
     url: /history/
@@ -28,7 +28,7 @@ right:
     url: https://community.disclose.io
     button: primary-outline
 
-  - title: Contact
+  - title: Contact Us
     url: /contact/
     button: primary
 

@@ -61,6 +61,10 @@ authors:
       name:         beauwoods
       title:        Contributor/Maintainer      
       avatar:       avatar-beauwoods.jpg
+    jeremy:
+      name:         jmanoto
+      title:        Contributor/Maintainer      
+      avatar:       avatar-jmanoto.jpg
     andrew:
       name:         andrewmohawk
       title:        Contributor/Maintainer
@@ -102,9 +106,9 @@ authors:
       title:        Contributor      
       avatar:       avatar-jonathan.jpg
     borski:
-      name:         borski
+      name:         0ddinput
       title:        Contributor
-      avatar:       avatar-borski.jpg
+      avatar:       avatar-0ddinput.jpg
 
 # Social icons displayed in footer
 social:

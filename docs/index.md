@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: disclose.io
-    subtitle: Disclose.io is a cross-industry, vendor-agnostic standardization project for safe harbor best practices to enable good-faith security research.
+    subtitle: We're here to make vulnearbility disclosure safe, simple, and standardardized for everyone.
     image: tug-of-war.jpg
 ---
 
