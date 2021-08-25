@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: disclose.io
-    subtitle: We're here to make vulnerability disclosure safe, simple, and standardardized for everyone.
+    subtitle: We're here to make vulnerability disclosure safe, simple, and standardized for everyone.
     image: tug-of-war.jpg
 ---
 
