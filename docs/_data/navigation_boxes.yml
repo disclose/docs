@@ -3,7 +3,7 @@
 - title: Deploy a VDP using Policymaker
   desc: Generate a customized and compliant VDP policy, security.txt, and DNS Security TXT
   icon: pencil
-  doc: what-is-disclose
+  doc: https://policymaker.disclose.io
 
 - title: Search for VDP and bug bounty programs
   desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
@@ -13,6 +13,6 @@
 - title: Get disclosure assistance
   desc: Get help finding security contacts from the disclose.io Community, and collaborate with like-minded folks working on making the Internet a safer place 
   icon: heart
-  url: https://community.disclose.io
+  url: https://community.disclose.io/c/hacker-connect/5
 
 
