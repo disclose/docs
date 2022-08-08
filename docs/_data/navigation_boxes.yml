@@ -3,7 +3,7 @@
 - title: Deploy a VDP using Policymaker
   desc: Generate a customized and compliant VDP policy, security.txt, and DNS Security TXT
   icon: pencil
-  doc: https://policymaker.disclose.io
+  url: https://policymaker.disclose.io
 
 - title: Search for VDP and bug bounty programs
   desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
