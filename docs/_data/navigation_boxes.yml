@@ -1,27 +1,17 @@
 # Boxes include navigation
 
-- title: Getting Started
-  desc: Learn about The disclose.io Project, how it works, and how to get started for vendors, finders, and contributors
-  icon: cog
+- title: Deploy a VDP using Policymaker
+  desc: Generate a customized and compliant VDP policy, security.txt, and DNS Security TXT
+  icon: pencil
   doc: what-is-disclose
 
-- title: The List
+- title: Search for VDP and bug bounty programs
   desc: Search vulnerability disclosure and bug bounty programs in our database, get details on where to submit security findings, and understand their safe harbor status.
   icon: menu
   url: programs/
 
-- title: The Terms
-  desc: Open-source Vulnerability Disclosure Program (VDP) policy boilerplates with Safe Harbor
-  icon: pencil
-  url: https://policymaker.disclose.io
-
-- title: Projects
-  desc: Dig in to our Core projects and discover up-and-coming projects and opportunities to collaborate
-  icon: code
-  doc: project-directory
-
-- title: Community
-  desc: Get help finding security contacts, and collaborate with like-minded folks working on making the Internet a safer place 
+- title: Get disclosure assistance
+  desc: Get help finding security contacts from the disclose.io Community, and collaborate with like-minded folks working on making the Internet a safer place 
   icon: heart
   url: https://community.disclose.io
 
