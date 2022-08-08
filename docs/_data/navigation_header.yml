@@ -5,16 +5,16 @@ left:
     url: /
 
   - title: Docs
-    url: /docs/what-is-disclose/
-
-  - title: Blog
-    url: https://blog.disclose.io
-
+    url: /docs/
+    
   - title: History
     url: /history/
   
-  - title: Program Search
+  - title: Lookup
     url: /programs/
+
+  - title: Blog
+    url: https://blog.disclose.io
 
 # Navbar right menu navigation links
 
