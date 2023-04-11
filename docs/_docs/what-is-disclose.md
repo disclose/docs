@@ -2,7 +2,8 @@
 layout: doc
 title: What is disclose.io
 categories: [Introduction]
-tags: 
+redirect_from:
+  - /docs/
 ---
 Disclose.io is a **cross-industry, vendor-agnostic standardization project** for safe harbor best practices to enable good-faith security research.
 
