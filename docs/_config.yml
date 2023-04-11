@@ -129,7 +129,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Copyright 2018-2022 disclose.io
+    copyright:      Copyright 2018-2023 disclose.io
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
