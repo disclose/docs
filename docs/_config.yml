@@ -112,11 +112,11 @@ authors:
 
 # Social icons displayed in footer
 social:
-    email:          hello@disclose.io
+    email:          mailto:hello@disclose.io
     website:        https://disclose.io
     facebook:       https://www.facebook.com/disclose-io
     github:         https://github.com/disclose
-    linkedin:       https://www.facebook.com/discloseio
+    linkedin:       https://www.linkedin.com/company/disclose-io/
     twitter:        https://twitter.com/disclose_io
     youtube:        https://www.youtube.com/c/discloseio
 
